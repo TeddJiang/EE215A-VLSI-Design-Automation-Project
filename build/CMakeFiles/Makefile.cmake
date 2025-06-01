@@ -98,7 +98,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/home/lirui/software/cmake-3.24.0-rc1-linux-x86_64/share/cmake-3.24/Modules/Platform/Linux-GNU.cmake"
   "/home/lirui/software/cmake-3.24.0-rc1-linux-x86_64/share/cmake-3.24/Modules/Platform/Linux.cmake"
   "/home/lirui/software/cmake-3.24.0-rc1-linux-x86_64/share/cmake-3.24/Modules/Platform/UnixPaths.cmake"
-  "/home/tangec/EE215Project/CMakeLists.txt"
+  "/home/tangec/EE215Project_tec/CMakeLists.txt"
   "CMakeFiles/3.24.0-rc1/CMakeCCompiler.cmake"
   "CMakeFiles/3.24.0-rc1/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.24.0-rc1/CMakeSystem.cmake"

@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/tangec/EE215Project/include
+CXX_INCLUDES = -I/home/tangec/EE215Project_tec/include
 
 CXX_FLAGS = -g -fPIC -std=gnu++17
 

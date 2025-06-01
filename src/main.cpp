@@ -29,6 +29,7 @@ int main(int argc, char *argv[])
     std::cout << "The input file name is: " << filename << std::endl;
 
     auto net_grid = parsefile(filename);
+    std::cerr << "Number of nets to route: " << net_grid.Net_num << std::endl;
 
     auto start = std::chrono::high_resolution_clock::now();
 

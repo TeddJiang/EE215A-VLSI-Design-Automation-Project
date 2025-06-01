@@ -1,5 +1,5 @@
 CMakeFiles/route.dir/src/main.cpp.o: \
- /home/tangec/EE215Project/src/main.cpp /usr/include/stdc-predef.h \
+ /home/tangec/EE215Project_tec/src/main.cpp /usr/include/stdc-predef.h \
  /usr/include/c++/11/iostream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -144,9 +144,9 @@ CMakeFiles/route.dir/src/main.cpp.o: \
  /usr/include/c++/11/bits/istream.tcc /usr/include/c++/11/chrono \
  /usr/include/c++/11/ratio /usr/include/c++/11/limits \
  /usr/include/c++/11/ctime /usr/include/c++/11/bits/parse_numbers.h \
- /home/tangec/EE215Project/include/clipp.h /usr/include/c++/11/cstring \
- /usr/include/string.h /usr/include/strings.h /usr/include/c++/11/memory \
- /usr/include/c++/11/bits/stl_uninitialized.h \
+ /home/tangec/EE215Project_tec/include/clipp.h \
+ /usr/include/c++/11/cstring /usr/include/string.h /usr/include/strings.h \
+ /usr/include/c++/11/memory /usr/include/c++/11/bits/stl_uninitialized.h \
  /usr/include/c++/11/bits/stl_tempbuf.h \
  /usr/include/c++/11/bits/stl_raw_storage_iter.h \
  /usr/include/c++/11/bits/align.h /usr/include/c++/11/bit \
@@ -185,8 +185,8 @@ CMakeFiles/route.dir/src/main.cpp.o: \
  /usr/include/c++/11/bits/erase_if.h /usr/include/c++/11/sstream \
  /usr/include/c++/11/bits/sstream.tcc /usr/include/c++/11/iterator \
  /usr/include/c++/11/bits/stream_iterator.h \
- /home/tangec/EE215Project/include/parse.h /usr/include/c++/11/fstream \
- /usr/include/c++/11/bits/codecvt.h \
+ /home/tangec/EE215Project_tec/include/parse.h \
+ /usr/include/c++/11/fstream /usr/include/c++/11/bits/codecvt.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/basic_file.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++io.h \
  /usr/include/c++/11/bits/fstream.tcc /usr/include/c++/11/cmath \
@@ -211,5 +211,5 @@ CMakeFiles/route.dir/src/main.cpp.o: \
  /usr/include/c++/11/tr1/poly_hermite.tcc \
  /usr/include/c++/11/tr1/poly_laguerre.tcc \
  /usr/include/c++/11/tr1/riemann_zeta.tcc \
- /home/tangec/EE215Project/include/router.h \
- /home/tangec/EE215Project/include/parse.h
+ /home/tangec/EE215Project_tec/include/router.h \
+ /home/tangec/EE215Project_tec/include/parse.h

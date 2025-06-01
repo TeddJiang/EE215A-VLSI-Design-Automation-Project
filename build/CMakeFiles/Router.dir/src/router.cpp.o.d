@@ -1,6 +1,6 @@
 CMakeFiles/Router.dir/src/router.cpp.o: \
- /home/tangec/EE215Project/src/router.cpp /usr/include/stdc-predef.h \
- /home/tangec/EE215Project/include/router.h /usr/include/c++/11/tuple \
+ /home/tangec/EE215Project_tec/src/router.cpp /usr/include/stdc-predef.h \
+ /home/tangec/EE215Project_tec/include/router.h /usr/include/c++/11/tuple \
  /usr/include/c++/11/utility \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -152,9 +152,10 @@ CMakeFiles/Router.dir/src/router.cpp.o: \
  /usr/include/x86_64-linux-gnu/c++/11/bits/basic_file.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++io.h \
  /usr/include/c++/11/bits/fstream.tcc \
- /home/tangec/EE215Project/include/parse.h /usr/include/c++/11/iostream \
- /usr/include/c++/11/sstream /usr/include/c++/11/bits/sstream.tcc \
- /usr/include/c++/11/algorithm /usr/include/c++/11/bits/stl_algo.h \
+ /home/tangec/EE215Project_tec/include/parse.h \
+ /usr/include/c++/11/iostream /usr/include/c++/11/sstream \
+ /usr/include/c++/11/bits/sstream.tcc /usr/include/c++/11/algorithm \
+ /usr/include/c++/11/bits/stl_algo.h \
  /usr/include/c++/11/bits/algorithmfwd.h \
  /usr/include/c++/11/bits/stl_heap.h \
  /usr/include/c++/11/bits/stl_tempbuf.h \

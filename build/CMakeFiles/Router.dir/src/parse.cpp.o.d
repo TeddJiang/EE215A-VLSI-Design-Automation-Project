@@ -1,6 +1,7 @@
 CMakeFiles/Router.dir/src/parse.cpp.o: \
- /home/tangec/EE215Project/src/parse.cpp /usr/include/stdc-predef.h \
- /home/tangec/EE215Project/include/parse.h /usr/include/c++/11/iostream \
+ /home/tangec/EE215Project_tec/src/parse.cpp /usr/include/stdc-predef.h \
+ /home/tangec/EE215Project_tec/include/parse.h \
+ /usr/include/c++/11/iostream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
  /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \

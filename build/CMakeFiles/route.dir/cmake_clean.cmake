@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/tangec/EE215Project/bin/route"
-  "/home/tangec/EE215Project/bin/route.pdb"
+  "/home/tangec/EE215Project_tec/bin/route"
+  "/home/tangec/EE215Project_tec/bin/route.pdb"
   "CMakeFiles/route.dir/src/main.cpp.o"
   "CMakeFiles/route.dir/src/main.cpp.o.d"
 )

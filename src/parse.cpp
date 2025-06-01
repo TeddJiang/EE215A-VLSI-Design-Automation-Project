@@ -10,7 +10,7 @@
 #include <string.h>
 
 
-// ×Ö·û´®·Ö¸îÎªÕûÊıÊı×é
+// ï¿½Ö·ï¿½ï¿½ï¿½ï¿½Ö¸ï¿½Îªï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 std::vector<int> split(const std::string &str) {
     std::vector<int> tokens;
     std::stringstream ss(str);
@@ -20,12 +20,12 @@ std::vector<int> split(const std::string &str) {
     return tokens;
 }
 
-// °´Âü¹ş¶Ù¾àÀëÅÅĞòÍø
+// ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ù¾ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 bool compareDistance(const Net &a, const Net &b) {
     return a.distance < b.distance;
 }
 
-// ½âÎöÊäÈëÎÄ¼ş
+// ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½
 NetGrid parsefile(std::string file_name) {
     std::string grid_path = "../benchmark/" + file_name + ".grid";
     std::string nl_path   = "../benchmark/" + file_name + ".nl";
@@ -67,31 +67,40 @@ NetGrid parsefile(std::string file_name) {
         nets[i - 1].distance = std::abs(nd[2] - nd[5]) + std::abs(nd[3] - nd[6]);
     }
 
-    std::vector<Net> x_nets, y_nets, l_nets;
-    for (const auto &net : nets) {
-        if (net.data[2] == net.data[5])
-            y_nets.push_back(net);
-        else if (net.data[3] == net.data[6])
-            x_nets.push_back(net);
-        else
-            l_nets.push_back(net);
-    }
+    // Log the first net's data before sorting
+    // if (net_grid.Net_num > 0) {
+    //     std::cerr << "Original Net 0 data (ID, Ls, Xs, Ys, Le, Xe, Ye): ";
+    //     for (int k = 0; k < 7; ++k) {
+    //         std::cerr << nets[0].data[k] << " ";
+    //     }
+    //     std::cerr << std::endl;
+    // }
 
-    std::sort(x_nets.begin(), x_nets.end(), compareDistance);
-    std::sort(y_nets.begin(), y_nets.end(), compareDistance);
-    std::sort(l_nets.begin(), l_nets.end(), compareDistance);
+    // std::vector<Net> x_nets, y_nets, l_nets;
+    // for (const auto &net : nets) {
+    //     if (net.data[2] == net.data[5])
+    //         y_nets.push_back(net);
+    //     else if (net.data[3] == net.data[6])
+    //         x_nets.push_back(net);
+    //     else
+    //         l_nets.push_back(net);
+    // }
 
-    nets.clear();
-    nets.insert(nets.end(), x_nets.begin(), x_nets.end());
-    nets.insert(nets.end(), y_nets.begin(), y_nets.end());
-    nets.insert(nets.end(), l_nets.begin(), l_nets.end());
+    // std::sort(x_nets.begin(), x_nets.end(), compareDistance);
+    // std::sort(y_nets.begin(), y_nets.end(), compareDistance);
+    // std::sort(l_nets.begin(), l_nets.end(), compareDistance);
+
+    // nets.clear();
+    // nets.insert(nets.end(), x_nets.begin(), x_nets.end());
+    // nets.insert(nets.end(), y_nets.begin(), y_nets.end());
+    // nets.insert(nets.end(), l_nets.begin(), l_nets.end());
 
     net_grid.nets = nets;
     net_grid.grid = grid;
     return net_grid;
 }
 
-// ´òÓ¡Íø¸ñÓëÍøÂçĞÅÏ¢
+// ï¿½ï¿½Ó¡ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ï¢
 void printNetGrid(const NetGrid &net_grid, const std::string &output_file) {
     std::ofstream out(output_file);
 

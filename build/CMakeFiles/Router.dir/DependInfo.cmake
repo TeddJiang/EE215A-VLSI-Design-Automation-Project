@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/tangec/EE215Project/src/parse.cpp" "CMakeFiles/Router.dir/src/parse.cpp.o" "gcc" "CMakeFiles/Router.dir/src/parse.cpp.o.d"
-  "/home/tangec/EE215Project/src/router.cpp" "CMakeFiles/Router.dir/src/router.cpp.o" "gcc" "CMakeFiles/Router.dir/src/router.cpp.o.d"
+  "/home/tangec/EE215Project_tec/src/parse.cpp" "CMakeFiles/Router.dir/src/parse.cpp.o" "gcc" "CMakeFiles/Router.dir/src/parse.cpp.o.d"
+  "/home/tangec/EE215Project_tec/src/router.cpp" "CMakeFiles/Router.dir/src/router.cpp.o" "gcc" "CMakeFiles/Router.dir/src/router.cpp.o.d"
   )
 
 # Targets to which this target links.
