@@ -1,0 +1,4 @@
+/home/tangec/EE215Project/bin/CMakeFiles/Router.dir
+/home/tangec/EE215Project/bin/CMakeFiles/route.dir
+/home/tangec/EE215Project/bin/CMakeFiles/edit_cache.dir
+/home/tangec/EE215Project/bin/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libRouter.a CMakeFiles/Router.dir/src/router.cpp.o CMakeFiles/Router.dir/src/parse.cpp.o
+/usr/bin/ranlib libRouter.a

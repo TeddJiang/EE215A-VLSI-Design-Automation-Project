@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/route.dir/src/main.cpp.o -o /home/tangec/EE215Project/bin/route  libRouter.a -lrt -lpthread 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/route.dir/src/main.cpp.o -o route  libRouter.a -lrt -lpthread 
