@@ -1,0 +1,160 @@
+The input file name is: bench1
+Number of nets to route: 20
+Routed PINS: 20/20
+Total Cost: 372
+Execution time: 58.3241 ms
+The input file name is: bench2
+Number of nets to route: 20
+Routed PINS: 20/20
+Total Cost: 2790
+Execution time: 142.171 ms
+The input file name is: bench3
+Number of nets to route: 16
+Routed PINS: 16/16
+Total Cost: 738
+Execution time: 64.3502 ms
+The input file name is: bench4
+Number of nets to route: 15
+Routed PINS: 15/15
+Total Cost: 1732
+Execution time: 60.062 ms
+The input file name is: bench5
+Number of nets to route: 128
+Routed PINS: 128/128
+Total Cost: 9022
+Execution time: 6029.34 ms
+The input file name is: fract2
+Number of nets to route: 125
+Routed PINS: 125/125
+Total Cost: 8841
+Execution time: 4348.9 ms
+The input file name is: industry1
+Number of nets to route: 1000
+Routed PINS: 1000/1000
+Total Cost: 376577
+Execution time: 878165 ms
+The input file name is: primary1
+Number of nets to route: 830
+Routed PINS: 830/830
+Total Cost: 96121
+Execution time: 180010 ms
+The input file name is: bench1
+Number of nets to route: 20
+Routed PINS: 20/20
+Total Cost: 557
+Execution time: 76.4378 ms
+The input file name is: bench2
+Number of nets to route: 20
+Routed PINS: 20/20
+Total Cost: 3090
+Execution time: 149.119 ms
+The input file name is: bench3
+Number of nets to route: 16
+Routed PINS: 16/16
+Total Cost: 808
+Execution time: 71.3817 ms
+The input file name is: bench4
+Number of nets to route: 15
+Routed PINS: 15/15
+Total Cost: 1778
+Execution time: 47.7754 ms
+The input file name is: bench5
+Number of nets to route: 128
+Routed PINS: 128/128
+Total Cost: 11268
+Execution time: 9568.61 ms
+The input file name is: fract2
+Number of nets to route: 125
+Routed PINS: 125/125
+Total Cost: 11201
+Execution time: 8259.35 ms
+The input file name is: industry1
+Number of nets to route: 1000
+Routed PINS: 1000/1000
+Total Cost: 469669
+Execution time: 2.85498e+06 ms
+The input file name is: primary1
+Number of nets to route: 830
+Routed PINS: 830/830
+Total Cost: 116011
+Execution time: 307568 ms
+The input file name is: bench1
+Number of nets to route: 20
+Routed PINS: 20/20
+Total Cost: 372
+Execution time: 30.9716 ms
+The input file name is: bench2
+Number of nets to route: 20
+Routed PINS: 20/20
+Total Cost: 2490
+Execution time: 106.825 ms
+The input file name is: bench3
+Number of nets to route: 16
+Routed PINS: 16/16
+Total Cost: 523
+Execution time: 43.0849 ms
+The input file name is: bench4
+Number of nets to route: 15
+Routed PINS: 15/15
+Total Cost: 1688
+Execution time: 113.474 ms
+The input file name is: bench5
+Number of nets to route: 128
+Routed PINS: 128/128
+Total Cost: 9022
+Execution time: 3033.17 ms
+The input file name is: fract2
+Number of nets to route: 125
+Routed PINS: 125/125
+Total Cost: 8841
+Execution time: 2298.24 ms
+The input file name is: industry1
+Number of nets to route: 1000
+Routed PINS: 1000/1000
+Total Cost: 376477
+Execution time: 518833 ms
+The input file name is: primary1
+Number of nets to route: 830
+Routed PINS: 830/830
+Total Cost: 95941
+Execution time: 97490.8 ms
+The input file name is: bench1
+Number of nets to route: 20
+Routed PINS: 20/20
+Total Cost: 557
+Execution time: 46.0165 ms
+The input file name is: bench2
+Number of nets to route: 20
+Routed PINS: 20/20
+Total Cost: 3090
+Execution time: 136.013 ms
+The input file name is: bench3
+Number of nets to route: 16
+Routed PINS: 16/16
+Total Cost: 633
+Execution time: 57.6006 ms
+The input file name is: bench4
+Number of nets to route: 15
+Routed PINS: 15/15
+Total Cost: 1778
+Execution time: 43.7562 ms
+The input file name is: bench5
+Number of nets to route: 128
+Routed PINS: 128/128
+Total Cost: 11268
+Execution time: 6492.27 ms
+The input file name is: fract2
+Number of nets to route: 125
+Routed PINS: 125/125
+Total Cost: 11201
+Execution time: 6284.29 ms
+The input file name is: industry1
+Number of nets to route: 1000
+Routed PINS: 1000/1000
+Total Cost: 469569
+Execution time: 2.37203e+06 ms
+The input file name is: primary1
+Number of nets to route: 830
+Routed PINS: 830/830
+Total Cost: 115831
+Execution time: 220956 ms
